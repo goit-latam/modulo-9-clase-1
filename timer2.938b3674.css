@@ -1,0 +1,2 @@
+.timer__items{max-width:max-content;margin:0 auto;font-size:48px;display:flex}.timer__item{min-width:60px;text-align:center;margin-left:10px;margin-right:10px;padding-bottom:15px;position:relative}.timer__item:before{content:attr(data-title);font-size:14px;display:block;position:absolute;bottom:0;left:50%;transform:translate(-50%)}.timer__item:not(:last-child):after{content:":";position:absolute;right:-15px}
+/*# sourceMappingURL=timer2.938b3674.css.map */
